@@ -1,3 +1,5 @@
 chunks.pkl
 chunks.index
 .venv
+.env
+session_data/

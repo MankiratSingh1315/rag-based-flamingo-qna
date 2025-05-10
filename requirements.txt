@@ -4,3 +4,4 @@ faiss-cpu
 PyPDF2
 requests
 streamlit
+google-generativeai
